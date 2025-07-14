@@ -1,2 +1,3 @@
 # to-do-list
-ne repo
+This is my first Git Repository.
+Author- Sana Altaf
